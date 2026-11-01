@@ -1,0 +1,13 @@
+Ma test,Muc tieu,Du lieu/Thao tac,Ket qua mong doi,Trang thai
+TC01,Xe vao khi bai con cho,"Nhap bien so hop le, loai XM","Gan mot o trong, ghi gio vao, luu du lieu",Chua chay tu dong
+TC02,Xe vao khi bai day, "Lap day 12 o roi nhap xe moi","Thong bao bai day, khong ghi nhan xe",Chua chay tu dong
+TC03,Trung bien so,Nhap bien so dang co trong bai,Tu choi xe trung,Chua chay tu dong
+TC04,Xe ra hop le,Nhap bien so xe dang gui,"Tinh phi, ghi CSV, giai phong o",Chua chay tu dong
+TC05,Khong tim thay xe,Nhap bien so khong co trong bai,Thong bao khong tim thay,Chua chay tu dong
+TC06,Loai xe khong hop le,Nhap loai xe khac XM/OTO,Thong bao loai xe khong hop le,Chua chay tu dong
+TC07,Sai lua chon menu,Nhap chu hoac so ngoai 0..6,Thong bao lua chon khong hop le,Da kiem tra luong menu
+TC08,Luu lich su,Cho xe ra thanh cong,Dong CSV duoc them vao cuoi file,Chua chay tu dong
+TC09,Khoi dong lai,Co xe dang gui trong xe_dang_gui.csv,Nap lai trang thai xe,Chua chay tu dong
+TC10,Thoi gian qua nua dem,"Xe vao truoc 00:00, ra sau 00:00",difftime cho khoang thoi gian dung,Chua chay tu dong
+TC11,File lich su khong mo duoc,Doi quyen hoac lam hong thu muc data,"Bao loi va khong giai phong xe",Chua chay tu dong
+TC12,Thoat chuong trinh,Chon 0,Luu trang thai xe dang gui,Da kiem tra smoke test
